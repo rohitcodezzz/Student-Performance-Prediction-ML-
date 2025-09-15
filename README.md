@@ -31,7 +31,7 @@ The Student Exam Performance Predictor project is developed for educational purp
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning.git`
+1. Clone the repository: `https://github.com/rohitcodezzz/Student-Performance-Prediction-ML-`
 2. Navigate to the project directory: `cd Predicting-Student-Performance-Using-Machine-Learning`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
